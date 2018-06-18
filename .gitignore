@@ -1,0 +1,9 @@
+Download/*
+*.csv
+.csv
+dataset
+*.pyc
+file1
+songs
+trained_model
+.DS_Store
