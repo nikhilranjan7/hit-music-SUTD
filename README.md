@@ -1,5 +1,7 @@
 # Hit Song Prediction
-**Soon to be published** 
+**Soon to be published**  
+
+
 Details about the project can be found [here](https://nikhilranjan7.github.io/resume.pdf)
 
 ## Script for prediction based on audio features
