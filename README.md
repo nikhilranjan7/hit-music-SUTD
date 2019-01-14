@@ -21,7 +21,7 @@ Other requirements:
 ```python
 python autosongprediction.py
 ```
-**Note**: [Website predictor](http://hitprediction.dorienherremans.com/) is based on expert user listening data.
+**Note**: [Website predictor](http://hitprediction.dorienherremans.com/) is based on expert users listening data.
 ### MIT License
 
 Copyright (c) 2019 [Nikhil Ranjan](http://nikhilranjan7.github.io)
